@@ -33,7 +33,7 @@ let date = d.toLocaleDateString(locale, {
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = "https://instagram.com/eabdlmufid"; //Instagram mu
 global.sgh = "https://github.com/eabdalmufid"; //Github mu
-global.swb = "https://silencemd.eu.org";
+global.swb = "https://ordiston.xyz";
 global.sfb = "https://www.facebook.com/";
 global.syt = "https://youtube.com/@eabdalmufid"; //YT Mu
 global.sgc = "https://chat.whatsapp.com/I23IUWLdmgfIIBWfEKNPEP"; //Group WhatsApp mu
@@ -49,18 +49,18 @@ global.donate =
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = "6287782830002"; //Nomor Bot mu
-global.nomorown = "6287782830020";
-global.namebot = "Silence BOT"; //Nama bot mu
-global.nameown = "AngelDark"; //Nama mu
+global.nomorown = "6287782860002";
+global.namebot = "Ordiston BOT"; //Nama bot mu
+global.nameown = "Afidev"; //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = "✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰"; //Gausah di apa² in
 global.after = "Bot by https://linktr.ee/whatsappbotz";
-global.swo = "https://wa.me/6287782830020";
-global.author = "                © Silence BOT By AngelDark"; //Wm author
+global.swo = "https://wa.me/6287782860002";
+global.author = "                © Ordiston BOT By Afidev"; //Wm author
 global.botintro =
-  "Hallo, Kenalin saya Silence BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *AngelDark* Saya di rilis pada tanggal\n🗓 ️_13/01/2022_";
+  "Hallo, Kenalin saya Ordiston BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Afidev* Saya di rilis pada tanggal\n🗓 ️_13/01/2022_";
 global.sallam = "💬 Waalaikumsallam";
 global.assalam = "https://telegra.ph/file/fe5ac925c2172b98b2c68.jpg";
 global.serialimg = "https://telegra.ph/file/f8f0be29f5f1dbd9b6d98.jpg";
@@ -70,8 +70,8 @@ global.thumbnailCuaca = "https://telegra.ph/file/96a0c4fba7d5233eb8c40.jpg";
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
   ["62895411954396"], //Owner1
-  ["6287782830020"], //Owner2
-  ["6287782830020", "AngelDark", true], //Ini buat kamu!
+  ["6287782860002"], //Owner2
+  ["6287782860002", "Afidev", true], //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ]; // Put your number here
 global.mods = []; // Want some help?
@@ -132,13 +132,13 @@ global.xckey = "BOhjM2hUVn";
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = "       「 赤 SILENCE - BOT 」"; //Wm
-global.wm2 = "➳༻❀ AngelDark ❁ུ۪۪.;:୭̥."; //Name Wm
-global.wm3 = "赤 SILENCE - BOT";
+global.wm = "       「 赤 ORDISTON - BOT 」"; //Wm
+global.wm2 = "➳༻❀ Afidev ❁ུ۪۪.;:୭̥."; //Name Wm
+global.wm3 = "赤 ORDISTON - BOT";
 global.hiasan = "꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦";
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`;
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`;
-global.titlebot = "𝗬𝗧: Silence Official"; //Ganti serah lu
+global.titlebot = "𝗬𝗧: Ordiston Official"; //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -485,10 +485,10 @@ global.fsizedoc = "99999999999999"; // 10TB
 global.fpagedoc = "999"; //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = "AngelDark";
+global.nameowner = "Afidev";
 global.umurowner = "21";
 global.asalowner = "Yogyakarta, Jawa tengah";
-global.nomorowner = "https://wa.me/6287782830020";
+global.nomorowner = "https://wa.me/6287782860002";
 global.pacarowner = "Ga ada pacar";
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -518,9 +518,9 @@ global.fsizedoc = "1".repeat(10);
 global.fpagedoc = "1".repeat(10);
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = "Silence Bot";
-global.stickauth = `© AngelDark`;
-global.packname = "By AngelDark";
+global.stickpack = "Ordiston Bot";
+global.stickauth = `© Afidev`;
+global.packname = "By Afidev";
 
 global.multiplier = 38; // The higher, The harder levelup
 
@@ -648,7 +648,7 @@ global.fpay = {
   key: {
     remoteJid: "0@s.whatsapp.net",
     fromMe: false,
-    id: "AngelDark",
+    id: "Afidev",
     participant: "0@s.whatsapp.net",
   },
   message: {
@@ -675,7 +675,7 @@ global.fpayment = (m) => {
     key: {
       remoteJid: "0@s.whatsapp.net",
       fromMe: false,
-      id: "AngelDark",
+      id: "Afidev",
       participant: "0@s.whatsapp.net",
     },
     message: {
@@ -686,7 +686,7 @@ global.fpayment = (m) => {
           m !== null && m !== undefined ? m.sender : "0@s.whatsapp.net",
         noteMessage: {
           extendedTextMessage: {
-            text: m !== null && m !== undefined ? m.text : "Subs YT: Silence",
+            text: m !== null && m !== undefined ? m.text : "Subs YT: Ordiston",
           },
         },
         expiryTimestamp: 999999999,

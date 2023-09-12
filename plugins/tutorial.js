@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `${htki} *TUTORIAL* ${htka}
 
 *📮 Command Termux:*
-Command termux Silence Bot
+Command termux Ordiston Bot
 ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
 
 

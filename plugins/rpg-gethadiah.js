@@ -14,10 +14,10 @@ const sections = [
     }, {
     title: `✃ INFO`,
 	rows: [
-	    {title: "💻 INFO BOT", rowId: '.info', description: 'Info Silence BOT' },
+	    {title: "💻 INFO BOT", rowId: '.info', description: 'Info Ordiston BOT' },
 	    {title: "🗃️ MENU", rowId: '.menu', description: 'Back to menu' },
-	{title: "👤 OWNER", rowId: '.owner', description: 'Owner Silence BOT' },
-	{title: "💰 SEWA BOT", rowId: '.sewa', description: 'Sewa Silence BOT' },
+	{title: "👤 OWNER", rowId: '.owner', description: 'Owner Ordiston BOT' },
+	{title: "💰 SEWA BOT", rowId: '.sewa', description: 'Sewa Ordiston BOT' },
 	]
     },
 ]

@@ -1,5 +1,5 @@
 // MADE BY BOCHILGAMING
-// RECODE BY ANGELDARK 
+// RECODE BY Afidev 
 
 import { promises } from 'fs'
 import { join } from 'path'
@@ -201,12 +201,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `━━━━━━▢  𝗦𝘁𝗮𝘁𝘂𝘀  ▢━━━━━━`,
 	rows: [
-	    {title: `📛 〉  Info Bot`, rowId: ".info", description: "Info nya Silence BOT "},
+	    {title: `📛 〉  Info Bot`, rowId: ".info", description: "Info nya Ordiston BOT "},
 	    {title: `💌 〉  Owner`, rowId: ".owner", description: "Ini Room Developer ku "},
 	{title: `🗣 〉  Request Fitur`, rowId: ".request", description: "Request Fitur menarik ke BOT"},
-	{title: `💻 〉  Bot Stats`, rowId: ".botinfo", description: "Menampilkan Status SILENCE - BOT"},
+	{title: `💻 〉  Bot Stats`, rowId: ".botinfo", description: "Menampilkan Status ORDISTON - BOT"},
 	{title: `📊 〉  Test Speed`, rowId: ".testspeed", description: "Test Install Speed BOT"},
-	{title: `⚡ 〉  Speed`, rowId: ".speed", description: "Kecepatan Respon SILENCE - BOT..."},
+	{title: `⚡ 〉  Speed`, rowId: ".speed", description: "Kecepatan Respon ORDISTON - BOT..."},
 	]
     },{
 	title: `━━━━━━▢  𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆  ▢━━━━━━`,
@@ -277,7 +277,7 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-    「 SILENCE-MD ⁩㊣ 」
+    「 ORDISTON-MD ⁩㊣ 」
 
  ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
  │⬡ User :  *${await conn.getName(m.sender)}*
@@ -299,7 +299,7 @@ let tek = `
 `
 const listMessage = {
   text: tek,
-  footer: '© SILENCE | ALL RESERVED',
+  footer: '© ORDISTON | ALL RESERVED',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
@@ -592,7 +592,7 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By Silence TEAM',
+            footer: titlebot + '\n⚡ Supported By Ordiston TEAM',
             templateButtons: [
                 {
                     urlButton: {

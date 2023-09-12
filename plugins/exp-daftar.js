@@ -59,7 +59,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ⬡ .daftar ${conn.getName(m.sender)}.17
 ┗━━━━━━━━━━㉿ 
 ⬡`, 
-   footer: `*⬡ © AngelDark*`, 
+   footer: `*⬡ © Afidev*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
@@ -86,7 +86,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ SILENCE BOT || ALL RESERVED
+ ❖ ORDISTON BOT || ALL RESERVED
 
  ╭━━━━「 *DATA* 」
  ┊• Status : *Sucsess ☑️*  】

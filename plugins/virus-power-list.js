@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *━━━━━▢ VIRUS ▢━━━━━*
           
- 🔥BY ANGELDARK🔥
+ 🔥BY Afidev🔥
           
                   
 –––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
@@ -12,17 +12,17 @@ const sections = [
    {
     title: `✃ VIRTEX`,
 	rows: [
-	    {title: "🌀 Power 1", rowId: '.virtex21', description: 'Silence WhatsApp Bot' },
-	    {title: "🌀 Power 2", rowId: '.virtex22', description: 'Silence WhatsApp Bot' },
-	{title: "🌀 Power 3", rowId: '.virtex23', description: 'Silence WhatsApp Bot' },
-	{title: "🌀 Power 4", rowId: '.virtex24', description: 'Silence WhatsApp Bot' },
-	{title: "🌀 Power 5", rowId: '.virtex25', description: 'Silence WhatsApp Bot' },
+	    {title: "🌀 Power 1", rowId: '.virtex21', description: 'Ordiston WhatsApp Bot' },
+	    {title: "🌀 Power 2", rowId: '.virtex22', description: 'Ordiston WhatsApp Bot' },
+	{title: "🌀 Power 3", rowId: '.virtex23', description: 'Ordiston WhatsApp Bot' },
+	{title: "🌀 Power 4", rowId: '.virtex24', description: 'Ordiston WhatsApp Bot' },
+	{title: "🌀 Power 5", rowId: '.virtex25', description: 'Ordiston WhatsApp Bot' },
 	]
     }, {
     title: `✃ INFO`,
 	rows: [
 	    {title: "🔥 Download WhatsApp Imune", rowId: '.imune', description: 'Download WhatsApp Kebal' },
-	    {title: "🔥 Virus Troli", rowId: '.virustroli', description: 'Silence WhatsApp Bot' },
+	    {title: "🔥 Virus Troli", rowId: '.virustroli', description: 'Ordiston WhatsApp Bot' },
 	    ]
         }, {
     title: `✃ BUY`,

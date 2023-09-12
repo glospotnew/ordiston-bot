@@ -12,7 +12,7 @@ export function before(m, { isBotAdmin }) {
         this.sendButton(m.chat, `*Toxic Terdeteksi !*\n*http://bīt.ly/ᯤ*
 あ Warning: ${user.warning} / 5 ┊
 [❗] Jika warning mencapai 5 kamu akan *dibanned + kick*
-Anda hanya bisa meminta Owner untuk membuka banned-nya !\n\n© AngelDark~`, wm, [['Cek Warning', '.cekdosa'], ['Owner', '.owner']], m)
+Anda hanya bisa meminta Owner untuk membuka banned-nya !\n\n© Afidev~`, wm, [['Cek Warning', '.cekdosa'], ['Owner', '.owner']], m)
         if (user.warning >= 5) {
             user.banned = true
             if (m.isGroup) {

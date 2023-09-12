@@ -56,7 +56,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 `🤖 ɴᴀᴍᴇ: ${_package.name}
 🧩 ᴠᴇʀsɪᴏɴ: ${_package.version}
 📚 ʟɪʙʀᴀʀʏ: ${_package.description}
-👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: AngelDark
+👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: Afidev
 
 ⏳ ᴜᴩᴛɪᴍᴇ: ${uptime}
 📈 ᴅᴀᴛᴀʙᴀsᴇ: ${totalreg}

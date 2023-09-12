@@ -1,21 +1,21 @@
 <p align="center">
     <img src="https://i.postimg.cc/wM03CSP6/07bc58660f1011cecfdc30809a4ddb15.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">SLCBOT-MD</h1>
+<h1 align="center">ORDISTON-BOT</h1>
 <p align="center">
-  <a href="https://github.com/eabdalmufid"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Smiley+Multi+Device;Base+ori+by+BochilGaming;Recode+By+AngelDark;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/eabdalmufid"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Smiley+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Afidev;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="AngelDark" src="https://img.shields.io/badge/Smiley-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Afidev" src="https://img.shields.io/badge/Smiley-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-AngelDark-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Afidev-blue.svg?style=for-the-badge&logo=github"></a>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/eabdalmufid/SLCBOT-V2?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+<img width="" src="https://img.shields.io/github/repo-size/eabdalmufid/ordiston-bot?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{eabdalmufid}/count.svg" alt="eabdalmufid :: Visitor's Count" /></p>
 
@@ -26,7 +26,7 @@
 > Bagi Yang Udah Forks Aja
 
 ## ```Connect With Me 📞``` <img src="https://github.com/itsmeyudd/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6287782830020">
+  <a href="https://wa.me/6287782860002">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/itsmeyudd/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://instagram.com/eabdlmufid">
@@ -40,9 +40,9 @@
   </a> &nbsp;&nbsp;
 
 
-## ```Whatsapp``` <a href="https://wa.me/6287782830020"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/itsmeyudd/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6287782860002"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/itsmeyudd/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287782830002) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287782830020) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287782860002) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I23IUWLdmgfIIBWfEKNPEP) 
 ---------
 
@@ -78,7 +78,7 @@
 * Scan Replit [`Click Here`](https://replit.com/@davekgw/SmileyBotz-QR-Code)
 
 ## ```Deploy Heroku```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eabdalmufid/SLCBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eabdalmufid/ordiston-bot)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -93,8 +93,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/eabdalmufid/SLCBOT-MD
-$ cd SLCBOT-MD
+$ git clone https://github.com/eabdalmufid/ordiston-bot
+$ cd ordiston-bot
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -136,8 +136,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/eabdalmufid/SLCBOT-MD
-cd SLCBOT-MD
+git clone https://github.com/eabdalmufid/ordiston-bot
+cd ordiston-bot
 npm install
 npm update
 ```
@@ -152,8 +152,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/eabdalmufid/SLCBOT-MD
-cd SLCBOT-MD
+git clone https://github.com/eabdalmufid/ordiston-bot
+cd ordiston-bot
 npm install
 npm update
 ```
@@ -230,11 +230,11 @@ Set prefix
 * [`Abdul Mufid`](https://github.com/eabdalmufid)
 
 ## ```Recode By 💌```
-[![AngelDark](https://github.com/eabdalmufid.png?size=100)](https://github.com/eabdalmufid)
+[![Afidev](https://github.com/eabdalmufid.png?size=100)](https://github.com/eabdalmufid)
 
 ## ```Big Thanks To ✨```
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![AngelDark](https://github.com/eabdalmufid.png?size=100)](https://github.com/davekgw) | [![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20) | [![FangzXD](https://github.com/ShionMDv.png?size=100)](https://github.com/Fangzbotz2007) 
+[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Afidev](https://github.com/eabdalmufid.png?size=100)](https://github.com/davekgw) | [![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20) | [![FangzXD](https://github.com/ShionMDv.png?size=100)](https://github.com/Fangzbotz2007) 
 ----|----|----|----
-[Nurutomo](https://https://github.com/Nurutomo) | [AngelDark](https://https://github.com/eabdalmufid) | [Amirul Dev](https://github.com/amiruldev20) | [FangzXD](https://github.com/Fangzbotz2007)
+[Nurutomo](https://https://github.com/Nurutomo) | [Afidev](https://https://github.com/eabdalmufid) | [Amirul Dev](https://github.com/amiruldev20) | [FangzXD](https://github.com/Fangzbotz2007)
 Author / Creator | Recode Bot | Contributor | Contributor
                                 

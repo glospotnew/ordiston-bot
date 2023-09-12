@@ -4,7 +4,7 @@ let handler = async (m, { participants }) => {
     m.reply(' *Sukses mematikan Bot 📴* ')
     // } else m.reply('Ada nomor Ownerku disini...')
 }
-handler.help = ['SILENCEBOT(on/off)']
+handler.help = ['ORDISTONBOT(on/off)']
 handler.tags = ['owner']
 handler.command = /^(botoff)$/i
 

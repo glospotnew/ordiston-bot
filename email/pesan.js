@@ -1,6 +1,6 @@
 // virtex lu
 const gmail1 = `
-Hay Fitur eror yang anda gunakan sudah di Fix oleh moderator Silence BOT
+Hay Fitur eror yang anda gunakan sudah di Fix oleh moderator Ordiston BOT
 Jika ada fitur eror lainya ketik .report ya
 Agar kami tangani secepatnya 
 

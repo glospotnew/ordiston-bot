@@ -37,7 +37,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
      }
      let math = max - xp
 let caption = `❏ *MENU* ❏
-Hay ${name} ${ucapan()}, Saya merupakan bot WhatsApp yang di kembangkan oleh *AngelDark* Saya bisa membantumu kapan pun dan di manapun kamu berada, Dan saya juga bisa membuat kamu menghilangkan rasa gabut..., Oh iya. kamu dapat nomor saya dari mana? Sebelum menggunakan bot ini, kamu harus tau rules nya yah agar tidak ter banned oleh bot. Terima kasih sudah menggunakan Silence BOT & Bot ini terjaga privasi nya!
+Hay ${name} ${ucapan()}, Saya merupakan bot WhatsApp yang di kembangkan oleh *Afidev* Saya bisa membantumu kapan pun dan di manapun kamu berada, Dan saya juga bisa membuat kamu menghilangkan rasa gabut..., Oh iya. kamu dapat nomor saya dari mana? Sebelum menggunakan bot ini, kamu harus tau rules nya yah agar tidak ter banned oleh bot. Terima kasih sudah menggunakan Ordiston BOT & Bot ini terjaga privasi nya!
 
 NOTE:
 • Jangan menelepon Bot/Don't call bot 

@@ -6,17 +6,17 @@ const sections = [
    {
 	title: `✃ STATS`,
 	rows: [
-	    {title: "📊 Test Speed", rowId: '.testspeed', description: '╰► Test Speed Silence BOT' },
+	    {title: "📊 Test Speed", rowId: '.testspeed', description: '╰► Test Speed Ordiston BOT' },
 	    {title: "📉 Stats Server", rowId: '.statserver', description: '╰► Status server BOT' },
-	{title: "💰 Donasi", rowId: '.donasi', description: '╰► Support Silence Agar on 24 Jam' },
+	{title: "💰 Donasi", rowId: '.donasi', description: '╰► Support Ordiston Agar on 24 Jam' },
 	]
     }, {
     title: `✃ INFO`,
 	rows: [
-	    {title: "📖 Rules", rowId: '.rules', description: '╰► S&K Silence BOT' },
-	{title: "⚡ Speed", rowId: '.speed', description: '╰► Speed Silence BOT' },
-	{title: "💵 Sewa BOT", rowId: '.sewa', description: '╰► Sewa Silence BOT' },
-	{title: "🌏 Lokasi BOT", rowId: '.loc2', description: '╰► Lokasi Silence BOT' },
+	    {title: "📖 Rules", rowId: '.rules', description: '╰► S&K Ordiston BOT' },
+	{title: "⚡ Speed", rowId: '.speed', description: '╰► Speed Ordiston BOT' },
+	{title: "💵 Sewa BOT", rowId: '.sewa', description: '╰► Sewa Ordiston BOT' },
+	{title: "🌏 Lokasi BOT", rowId: '.loc2', description: '╰► Lokasi Ordiston BOT' },
 	]
     },
 ]

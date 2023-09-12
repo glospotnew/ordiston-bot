@@ -12,15 +12,15 @@ const sections = [
    {
     title: `✃ INFO`,
 	rows: [
-	    {title: "🔮 WhatsApp Imune 1", rowId: '.waimune1', description: 'Silence WhatsApp Bot' },
-	    {title: "🔮 WhatsApp Imune 2", rowId: '.waimune2', description: 'Silence WhatsApp Bot' },
-	{title: "🔮 WhatsApp Gb Kebal 1", rowId: '.wagb1', description: 'Silence WhatsApp Bot' },
+	    {title: "🔮 WhatsApp Imune 1", rowId: '.waimune1', description: 'Ordiston WhatsApp Bot' },
+	    {title: "🔮 WhatsApp Imune 2", rowId: '.waimune2', description: 'Ordiston WhatsApp Bot' },
+	{title: "🔮 WhatsApp Gb Kebal 1", rowId: '.wagb1', description: 'Ordiston WhatsApp Bot' },
 	{title: "🔮 WhatsApp Gb Kebal 2", rowId: '.wagb2', description: 'Download WhatsApp Kebal' },
 	]
     }, {
     title: `✃ BUY`,
 	rows: [
-	    {title: "😈 AngelDark", rowId: '.owner', description: 'Pembuat Bot' },
+	    {title: "😈 Afidev", rowId: '.owner', description: 'Pembuat Bot' },
 	    ]
         },
 ]

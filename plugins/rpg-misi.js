@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *━━━━━▢ MISI ▢━━━━━*
 
-©2022 SilenceBot Official 
+©2022 OrdistonBot Official 
 `
 const sections = [
    {

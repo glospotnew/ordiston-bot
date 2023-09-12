@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, "./package.json")); // https://
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say("SILENCE\nMD", {
+say("ORDISTON\nMD", {
   font: "block",
   align: "center",
   colors: ["blue"],
 });
-say(`⚜️ SILENCE-MD, Bot By @eabdlmufid`, {
+say(`⚜️ ORDISTON-MD, Bot By @eabdlmufid`, {
   font: "console",
   align: "center",
   colors: ["green"],
